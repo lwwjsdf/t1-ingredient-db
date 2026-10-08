@@ -1,0 +1,1211 @@
+{
+  "issue": "lwwjsdf/family-ops#161",
+  "standard": "GB 2760-2024",
+  "pdf_sha256": "16510a1bb9123d7b9a8657823450a2656701297690f905a1384a80d9489f3083",
+  "sample_size": 200,
+  "passed": 200,
+  "consistency_rate": 1.0,
+  "method": "从同一官方公开 PDF 解析参照数据，与已入库 SQLite 逐字段比对；PDF SHA-256 固定抽查样本",
+  "checks": [
+    {
+      "additive_id": 6,
+      "cn_name": "D-异抗坏血酸及其钠盐(包括D-异抗坏血酸,D-异抗坏血酸钠)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 10,
+      "cn_name": "L-丙氨酸",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 15,
+      "cn_name": "β-阿朴-8'-胡萝卜素醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 53,
+      "cn_name": "对羟基苯甲酸酯类及其钠盐(包括对羟基苯甲酸甲酯钠,对羟基苯甲酸乙酯,对羟基苯甲酸乙酯钠)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 70,
+      "cn_name": "高粱红",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 83,
+      "cn_name": "黑加仑红",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 108,
+      "cn_name": "聚二甲基硅氧烷及其乳液(包括聚二甲基硅氧烷,聚二甲基硅氧烷乳液)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 114,
+      "cn_name": "聚乙烯醇",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 115,
+      "cn_name": "决明胶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 117,
+      "cn_name": "卡拉胶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 125,
+      "cn_name": "可溶性大豆多糖",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 160,
+      "cn_name": "木糖醇酐单硬脂酸酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 166,
+      "cn_name": "柠檬酸铁铵",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 194,
+      "cn_name": "乳糖醇(又名4-β-D吡喃半乳糖-D-山梨醇)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 196,
+      "cn_name": "三氯蔗糖(又名蔗糖素)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 212,
+      "cn_name": "碳酸铵",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 214,
+      "cn_name": "碳酸钾",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 226,
+      "cn_name": "田菁胶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 230,
+      "cn_name": "桂酸酯(又名吐温20),聚氧乙烯(20)山梨醇酐单棕榈酸酯(又名吐温40),聚氧乙烯(20)山梨醇酐单硬脂酸酯(又名吐温60),聚氧乙烯(20)山梨醇酐单油酸酯(又名吐温80)]",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 231,
+      "cn_name": "脱氢乙酸及其钠盐(包括脱氢乙酸,脱氢乙酸钠)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 233,
+      "cn_name": "微晶纤维素",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 238,
+      "cn_name": "橡子壳棕",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 250,
+      "cn_name": "杨梅红",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 256,
+      "cn_name": "叶绿素铜钠盐叶绿素铜钾盐",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 267,
+      "cn_name": "硬脂酸(又名十八烷酸)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 272,
+      "cn_name": "以即饮状态计,相应的固体饮料按稀释倍数增加使用量诱惑红及其铝色淀(包括诱惑红,诱惑红铝色淀)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 287,
+      "cn_name": "紫胶红(又名虫胶红)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 305,
+      "cn_name": "云木香油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 307,
+      "cn_name": "乌梅酊",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 349,
+      "cn_name": "岩蔷薇浸膏又名赖百当(浸膏)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 369,
+      "cn_name": "柚皮油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 378,
+      "cn_name": "树兰花油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 394,
+      "cn_name": "香榧子壳浸膏",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 397,
+      "cn_name": "酒花酊",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 403,
+      "cn_name": "桂花净油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 414,
+      "cn_name": "甜小茴香油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 417,
+      "cn_name": "除萜甜橙油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 423,
+      "cn_name": "黑加仑酊",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 424,
+      "cn_name": "黑加仑浸膏",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 439,
+      "cn_name": "可乐果提取物",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 445,
+      "cn_name": "月桂叶提取物油树脂/",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 447,
+      "cn_name": "白栎木屑提取物",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 453,
+      "cn_name": "红橘油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 455,
+      "cn_name": "杏仁油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 467,
+      "cn_name": "阿魏油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 478,
+      "cn_name": "胡萝卜籽油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 504,
+      "cn_name": "d樟脑-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 528,
+      "cn_name": "肉豆蔻衣油树脂提取物/",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 545,
+      "cn_name": "除萜甜橙皮油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 550,
+      "cn_name": "葡萄柚油萜烯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 561,
+      "cn_name": "众香子油树脂提取物/",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 567,
+      "cn_name": "母菊匈牙利春黄菊()花油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 579,
+      "cn_name": "缬草根提取物",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 587,
+      "cn_name": "达迷草叶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 596,
+      "cn_name": "罗望子提取物浸膏()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 611,
+      "cn_name": "阿魏液态提取物流浸(膏)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 612,
+      "cn_name": "桃树叶净油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 619,
+      "cn_name": "蓖麻油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 620,
+      "cn_name": "儿茶粉",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 627,
+      "cn_name": "甜菜碱天然提取()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 636,
+      "cn_name": "灵猫净油",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 661,
+      "cn_name": "龙涎香酊",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 686,
+      "cn_name": "己烯醇2--1-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 715,
+      "cn_name": "dl香茅醇-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 726,
+      "cn_name": "己烯醇1--3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 730,
+      "cn_name": "顺式辛烯醇-3--1-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 742,
+      "cn_name": "l薄荷烷氧基甲基3-(-)-2--1,2-丙二醇",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 753,
+      "cn_name": "l鼠李糖-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 758,
+      "cn_name": "朗姆醚又名乙醇氧化水合物()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 770,
+      "cn_name": "邻甲酚-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 771,
+      "cn_name": "间甲酚-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 786,
+      "cn_name": "香芹酚",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 787,
+      "cn_name": "甲氧基丙基苯酚2--4-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 796,
+      "cn_name": "甲基丁烯醛2--2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 797,
+      "cn_name": "苯基丁烯醛2--2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 812,
+      "cn_name": "庚烯醛4-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 814,
+      "cn_name": "二甲基庚烯醛2,6--5-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 820,
+      "cn_name": "壬醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 822,
+      "cn_name": "壬烯醛2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 826,
+      "cn_name": "甲酸桃金娘烯酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 835,
+      "cn_name": "反式顺式十二碳二烯醛-2--6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 838,
+      "cn_name": "大茴香醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 851,
+      "cn_name": "肉桂醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 870,
+      "cn_name": "香兰素丙二醇缩醛1,2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 891,
+      "cn_name": "庚酮2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 896,
+      "cn_name": "十一酮2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 898,
+      "cn_name": "圆柚酮",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 917,
+      "cn_name": "乙基甲基羟基二氢2--3--4--2,5-呋喃酮-5-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 924,
+      "cn_name": "二甲基环戊二酮3,4--1,2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 926,
+      "cn_name": "己二酮2,3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 953,
+      "cn_name": "戊基呋喃2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 956,
+      "cn_name": "顺式二氢香芹酮-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 960,
+      "cn_name": "甲基戊二酮4--2,3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 986,
+      "cn_name": "癸酸",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 987,
+      "cn_name": "十二酸又名月桂酸()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1004,
+      "cn_name": "氧代丁酸2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1008,
+      "cn_name": "二甲基辛烯酸3,7--6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1021,
+      "cn_name": "甲酸",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1032,
+      "cn_name": "甲酸己酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1043,
+      "cn_name": "乙酸烯丙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1051,
+      "cn_name": "乙酸辛酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1053,
+      "cn_name": "辛烯醇乙酸酯1--3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1096,
+      "cn_name": "丁酸异丁酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1120,
+      "cn_name": "当归酸异丁酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1125,
+      "cn_name": "水杨酸丁酯又名柳酸丁酯()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1166,
+      "cn_name": "邻氨基苯甲酸甲酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1171,
+      "cn_name": "惕各酸乙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1179,
+      "cn_name": "肉桂酸肉桂酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1181,
+      "cn_name": "水杨酸乙酯又名柳酸乙酯()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1185,
+      "cn_name": "棕榈酸乙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1186,
+      "cn_name": "二氢茉莉酮酸甲酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1204,
+      "cn_name": "甲基丁酸异丙酯2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1215,
+      "cn_name": "戊基吡啶2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1217,
+      "cn_name": "异戊酸薄荷酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1220,
+      "cn_name": "己酸烯丙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1222,
+      "cn_name": "二甲基辛烯酸甲酯3,7--6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1227,
+      "cn_name": "N甲基邻氨基苯甲酸甲酯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1234,
+      "cn_name": "环己基羧酸甲酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1235,
+      "cn_name": "大茴香酸甲酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1241,
+      "cn_name": "水杨酸苄酯又名柳酸苄酯()",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1243,
+      "cn_name": "肉桂酸苯丙酯3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1255,
+      "cn_name": "乙酸龙脑烯醇酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1269,
+      "cn_name": "己酸苯乙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1271,
+      "cn_name": "辛酸己酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1286,
+      "cn_name": "顺式庚烯酸乙酯-4-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1289,
+      "cn_name": "乙酸胡椒醛酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1290,
+      "cn_name": "丙酸肉桂酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1299,
+      "cn_name": "γ庚内酯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1307,
+      "cn_name": "δ壬内酯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1317,
+      "cn_name": "δ十四内酯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1321,
+      "cn_name": "二氢猕猴桃内酯又名[(+/-)-三甲基羟基环亚己基2,6,6--2-乙酸γ内酯-]",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1329,
+      "cn_name": "异松油烯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1334,
+      "cn_name": "桉叶素1,8-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1343,
+      "cn_name": "红没药烯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1354,
+      "cn_name": "α松油烯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1425,
+      "cn_name": "糠基甲基硫醚",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1456,
+      "cn_name": "苯乙胺",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1474,
+      "cn_name": "甲基四氢呋喃硫醇2--3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1479,
+      "cn_name": "苯乙硫醇2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1493,
+      "cn_name": "邻氨基苯乙酮-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1521,
+      "cn_name": "胡椒烯酮又名对二[--1,4(8)-烯酮-3-]",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1537,
+      "cn_name": "甲基丁醇2--1-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1553,
+      "cn_name": "茴香酸4-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1563,
+      "cn_name": "dl氨基羧基丙基二甲,-(3--3-)基氯化锍又名甲基蛋氨酸氯化(-锍)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1576,
+      "cn_name": "甲基丙基三硫醚",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1592,
+      "cn_name": "乙酸十二醇酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1602,
+      "cn_name": "乙硫醇",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1612,
+      "cn_name": "N甲基邻氨基苯甲酸异丁酯-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1619,
+      "cn_name": "三甲基十二碳3,7,11--2,6,10-三烯醇乙酸酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1624,
+      "cn_name": "丙酰噻唑2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1635,
+      "cn_name": "苯乙基硫醇(+/-)-1-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1645,
+      "cn_name": "乙氧基甲基丁烯1--3--2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1652,
+      "cn_name": "反式顺式壬二烯醇-3--6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1667,
+      "cn_name": "乙酸正戊酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1668,
+      "cn_name": "胡薄荷酮",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1703,
+      "cn_name": "山梨酸乙酯又名己二烯酸(2,4-乙酯)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1708,
+      "cn_name": "肉桂酸丙酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1730,
+      "cn_name": "巯基甲基戊醇3--2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1763,
+      "cn_name": "异硫氰酸戊酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1782,
+      "cn_name": "二糠基醚",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1789,
+      "cn_name": "反式顺式顺式十三碳三-2--4--7-烯醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1792,
+      "cn_name": "丙酸顺式辛烯酯-5-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1799,
+      "cn_name": "二羟基二噻烷又名巯2,5--1,4-(基乙醛二聚体)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1841,
+      "cn_name": "壬二烯醛二乙缩醛2,6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1875,
+      "cn_name": "庚炔羧酸甲酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1893,
+      "cn_name": "甲基或乙基或甲氧2-()-3(56)-基吡嗪",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1945,
+      "cn_name": "甲酸二甲基苄基原酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1950,
+      "cn_name": "乙酸二甲基苯乙基原酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1961,
+      "cn_name": "苯乙酸芳樟酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1968,
+      "cn_name": "N三甲基异丙基丁酰胺,2,3--2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 1975,
+      "cn_name": "环己烷基甲酸",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2014,
+      "cn_name": "二甲基硫代乙酰氧基2,5--3-呋喃",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2016,
+      "cn_name": "甲基呋喃硫基3-[(2--3-)]-2-丁酮",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2062,
+      "cn_name": "甲基苯甲醛甘油缩醛邻间对(、、异构体混合物)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2065,
+      "cn_name": "反式和顺式甲氧基癸烯()-1--1-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2069,
+      "cn_name": "异戊酸苯丙酯3-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2076,
+      "cn_name": "环己基己酸烯丙酯6-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2094,
+      "cn_name": "反式顺式壬二烯醇乙(,)-2,6--1-酸酯",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2122,
+      "cn_name": "甲硫基戊酮4-()-2-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2125,
+      "cn_name": "辛醛二甲缩醛",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2132,
+      "cn_name": "三甲基十五碳2,6,10--2,6,10-三烯酮-14-",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2137,
+      "cn_name": "顺式和反式巯基对烷酮-1----3-又名顺式和反式巯基对薄(-1---荷烷酮-3-)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2177,
+      "cn_name": "甲氧苯基(1R,2S,5R)-N-(4-)-5-甲基甲基乙基环己基甲-2-(1-)酰胺",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2183,
+      "cn_name": "丙烷",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2190,
+      "cn_name": "磷脂",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2202,
+      "cn_name": "乳酸",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2204,
+      "cn_name": "碳酸钙包括轻质碳酸钙重质碳酸钙(,)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2208,
+      "cn_name": "碳酸氢钾",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2213,
+      "cn_name": "氧化镁包括重质氧化镁轻质氧化镁(,)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2223,
+      "cn_name": "阿拉伯胶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2259,
+      "cn_name": "磷酸二氢钠",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2288,
+      "cn_name": "乙酸钠又名醋酸(钠)",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2314,
+      "cn_name": "谷氨酰胺转氨酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2315,
+      "cn_name": "果胶裂解酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2320,
+      "cn_name": "海藻糖酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2325,
+      "cn_name": "磷脂酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2328,
+      "cn_name": "磷脂酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2329,
+      "cn_name": "磷酸肌醇磷脂酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2337,
+      "cn_name": "凝乳酶或粗制凝乳酶",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "additive_id": 2357,
+      "cn_name": "蔗糖果糖转移酶又名果糖基转1-(移酶)",
+      "passed": true,
+      "errors": []
+    }
+  ]
+}
